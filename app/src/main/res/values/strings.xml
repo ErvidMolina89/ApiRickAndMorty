@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ApiRickAndMorty</string>
+    <string name="rick_and_morty">Rick And Morty</string>
+    <string name="categorias">Categorias</string>
+    <string name="juegos_populares">Los juegos más populares</string>
+    <string name="juegos">Personajes</string>
+    <string name="error_internet">No tienes conexión a internet, busca una conección</string>
+    <string name="object_no_cast_characters">Object no pudo castearse a Characters</string>
+    <string name="no_servicio">No se encontro un servicio</string>
+    <string name="busqueda_por_nombre">Busqueda por nombre</string>
+    <string name="estado">Estado:</string>
+    <string name="especie">Especie:</string>
+    <string name="tipo">Tipo:</string>
+    <string name="sexo">Sexo:</string>
+    <string name="locacion">Locación:</string>
+    <string name="origen">Origen:</string>
+    <string name="fecha">Fecha:</string>
+</resources>

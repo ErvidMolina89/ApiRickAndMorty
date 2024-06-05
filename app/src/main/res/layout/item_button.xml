@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/buttonCategorias"
+    android:layout_width="wrap_content"
+    android:layout_height="@dimen/_60dp"
+    android:text="Alive"
+    android:padding="@dimen/_8dp"
+    android:textColor="@color/white"
+    android:textStyle="bold"
+    android:layout_margin="@dimen/_8dp"
+    />
